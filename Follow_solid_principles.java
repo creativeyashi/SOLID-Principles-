@@ -40,4 +40,12 @@ public class SubjectName implements Subject
    {  
     this.subject =subject;
    }   
-}  
+} 
+
+class Main
+{
+public static void main(String args[]){
+
+	SubjectName sb=new SubjectName();
+ }
+}
