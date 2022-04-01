@@ -26,7 +26,7 @@ public class Student implements Class
        this.setWeight(w);  
     }    
 }
-public class Teacher implements Teacher{
+public class TeacherName implements Teacher{
 	
    public void getTeacherName(String name)   
    {
